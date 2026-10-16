@@ -12,6 +12,14 @@ resAPI is MIT licensed and currently in preview.
 
 [Get started](https://github.com/Seaside-Logic/resapi/blob/main/docs/getting-started.md) · [Source code](https://github.com/Seaside-Logic/resapi) · [Report an issue](https://github.com/Seaside-Logic/resapi/issues)
 
+### [rescript-radix](https://rescript-radix.dev)
+
+Unofficial ReScript React bindings for Radix Primitives. Build with Radix's accessible, unstyled components using typed props and callbacks in ReScript. Radix handles interaction behavior, keyboard navigation, and focus management, while your application controls styling and composition.
+
+rescript-radix is MIT licensed and includes documentation and live examples.
+
+[Get started](https://rescript-radix.dev) · [Source code](https://github.com/Seaside-Logic/rescript-radix) · [Report an issue](https://github.com/Seaside-Logic/rescript-radix/issues)
+
 ## Products
 
 ### [QRacker](https://qracker.com)
